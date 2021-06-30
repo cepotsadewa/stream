@@ -4,31 +4,29 @@
             "name": "Berita Satu",
             "logo": "bbc_news.png",
             "url": [
-                "http://51.52.156.22:8888/http/004"
+                "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8"
             ]
         },
         {
-            "name": "BBC World News",
-            "logo": "bbc_world_news.png",
+            "name": "BeritaSatu English",
+            "logo": "BeritaSatu English",
             "url": [
-                "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
+                "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8"
             ]
         },
         {
-            "name": "Sky News",
-            "logo": "sky_news.png",
+            "name": "Celestial Movies",
+            "logo": "Celestial Movies",
             "url": [
-                "https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true",
-                "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
-                "http://165.22.122.126:25461/live/zero/app/10.m3u8"
+                "http://210.210.155.35/qwr9ew/s/s33/index.m3u8"
             ]
         },
         {
-            "name": "CNN",
-            "logo": "cnn.png",
+            "name": "GTV",
+            "logo": "GTV.png",
             "url": [
-                "http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/11492.m3u8",
-                "http://iptv.deluxeplay.live:80/live/wxjixlfa/6ltzK8x52Y/7232.m3u8",
+                "https://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta.m3u8",
+                "https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/778-gtv",
                 "http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/881.m3u8",
                 "http://185.232.53.5:2086/live/wickeduk/etqyhww45e/16216.m3u8",
                 "http://185.232.53.5:2086/live/wickeduk/etqyhww45e/64140.m3u8",
@@ -36,68 +34,69 @@
             ]
         },
         {
-            "name": "CBS",
+            "name": "Metro TV",
             "logo": "cbs.png",
             "url": [
-                "http://161.0.157.5/PLTV/88888888/224/3221227041/01.m3u8",
-                "http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8",
-                "http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8",
-                "http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8"
+                "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8",
+                "http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8",
+                "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8"
             ]
         },
         {
-            "name": "CBSN",
-            "logo": "cbsn.png",
+            "name": "MNCTV",
+            "logo": "MNCTV.png",
             "url": [
-                "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8",
-                "http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8",
+                "http://bonev2.xyz:80/playlist/vidio-mnc-new-bonetv.m3u8",
+                "https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8",
                 "https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8"
             ]
         },
         {
-            "name": "NBC News Now",
+            "name": "NET.",
             "logo": "nbc.png",
             "url": [
-                "https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8"
+                "https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/875-net-tv"
             ]
         },
         {
-            "name": "NBC",
-            "logo": "nbc.png",
+            "name": "One TV",
+            "logo": "One TV.png",
             "url": [
-                "http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8",
+                "https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd",
                 "http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8"
             ]
         },
         {
-            "name": "NBC Pittsburgh",
-            "logo": "wpxi.png",
+            "name": "RCTI",
+            "logo": "RCTI.png",
             "url": [
-                "http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8"
+                "https://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta.m3u8",
+                "https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8"
             ]
         },
         {
-            "name": "NBC 6 Miami",
-            "logo": "nbc_6.png",
+            "name": "SCTV",
+            "logo": "SCTV.png",
             "url": [
-                "http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8",
-                "http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8"
+                "http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4102a6ed6587b5b8cb4ebbe972864690b",
+                "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd"
             ]
         },
         {
-            "name": "NBC Bay Area",
+            "name": "TRANS 7 HD",
             "logo": "nbc_bay_area.png",
             "url": [
-                "http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8",
-                "https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8",
-                "https://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/master.m3u8"
+                "https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/734-trans7",
+                "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8",
+                "https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv"
             ]
         },
         {
-            "name": "NASA TV",
+            "name": "TRANS TV HD",
             "logo": "nasa_tv.png",
             "url": [
-                "https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8"
+                "https://query-streamlink.lanesh4d0w.repl.co/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv",
+                "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"
             ]
         },
         {
